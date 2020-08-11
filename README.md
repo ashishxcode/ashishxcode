@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 📫 How to reach me: www.ashishxcode.netlify.app
+- 📫 How to reach me: https://ashishxcode.netlify.app/
