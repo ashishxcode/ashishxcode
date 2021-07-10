@@ -15,10 +15,6 @@
 
 - 📫 How to reach me **ashishxcode@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
@@ -57,6 +53,7 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishxcode&show_icons=true&locale=en&layout=compact" alt="ashishxcode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishxcode&show_icons=true&locale=en" alt="ashishxcode" /></p>
+<div>
+   <span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ashishxcode&show_icons=true&locale=en" alt="ashishxcode" /></span>
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishxcode&show_icons=true&locale=en&layout=compact" alt="ashishxcode" /></span>
+</div>
