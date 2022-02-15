@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h6 align="center">Full Stack Developer</h6>
 
-<p align="left"> <a href="https://twitter.com/ashishxcode" target="blank"><img src="https://img.shields.io/twitter/follow/ashishxcode?logo=twitter&style=for-the-badge" alt="ashishxcode" /></a> </p>
+<a href="https://twitter.com/ashishxcode" target="blank"><img src="https://img.shields.io/twitter/follow/ashishxcode?logo=twitter&style=for-the-badge" alt="ashishxcode" /></a>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m mastering **MERN Stack**
 
 - 👯 I’m looking to collaborate on [Outreach](https://github.com/ashishxcode/Outreach)
 
-- 👨‍💻 All of my projects are available at [https://ashishxcode.netlify.app/](https://ashishxcode.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ashishxcode.netlify.app/](https://ashishxcode.me)
 
 - 📝 I occasionally write articles on [https://ashishxcode.hashnode.dev/](https://ashishxcode.hashnode.dev/)
 
@@ -53,7 +53,8 @@
   </a> 
 </p>
 
-<div>
-   <span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ashishxcode&show_icons=true&locale=en" alt="ashishxcode" /></span>
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishxcode&show_icons=true&locale=en&layout=compact" alt="ashishxcode" /></span>
-</div>
+### Profile Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=ashishxcode&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishxcode&theme=tokyonight)
