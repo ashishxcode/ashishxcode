@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Nice to meet you, I'm Ashish aks ashishxcode
+Nice to meet you, I'm Ashish Patel aka ashishxcode
 ## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
