@@ -1,7 +1,7 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 Nice to meet you, I'm Ashish Patel aka ashishxcode
-## Who Am I? 🤠
+## About Me 🤠
 
 - 🤓 Self taught Developer 
 - 👩‍💻 Working on Web & App Development 
@@ -11,13 +11,7 @@ Nice to meet you, I'm Ashish Patel aka ashishxcode
     
 <br>
 
-## My Weapons 🌟
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishxcode&theme=react)](https://github.com/ashishxcode/github-readme-stats)
-
-<br>
-
-## Other Shields 🛡
+## Shields 🛡
 
 <p align="left">
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; &nbsp;
