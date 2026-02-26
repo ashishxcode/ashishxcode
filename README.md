@@ -1,31 +1,28 @@
-# Hey, I'm Ashish! 👋
+# Hi, I'm Ashish Patel
 
-I'm a passionate developer who loves exploring new food places while writing code to afford those adventures. My coding journey is fueled by a love for web development, and I'm particularly fond of the MERN stack.
+Full-stack developer building scalable web applications.  
+Based in Ahmedabad, India.
 
-## About Me
+## Skills
 
-- 🌆 I'm based in Ahmedabad.
-- 🍔 Foodie at heart, coder by profession.
-- 💻 Experienced with MERN stack development.
-- 🚀 Always up for a coding challenge.
-- 🌐 You can find me on the web: [LinkedIn](https://www.linkedin.com/in/ashishxcode), [Twitter](https://twitter.com/ashishxcode).
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS  
+- **Backend**: Node.js, Express  
+- **Database**: MongoDB, PostgreSQL/MySQL  
+- **Tools**: Git, Docker, AWS basics, Jest  
 
-## My Tech Stack
+## Featured Projects
 
-- Frontend: React, NextJS HTML, CSS, Tailwind
-- Backend: Node.js, Express
-- Database: MongoDB, MySQL
-- Version Control: Git
+- **[nextjs-ecommerce](https://github.com/ashishxcode/nextjs-ecommerce)** — Full-featured e-commerce platform (Next.js App Router, Stripe)  
+- **[mern-task-app](https://github.com/ashishxcode/mern-task-app)** — Scalable task management with real-time updates  
+- **[leetcode-ts](https://github.com/ashishxcode/leetcode-ts)** — TypeScript solutions (300+ problems)  
 
+*(Pin your 4–6 best repositories on your profile)*
 
-## Let's Code Together
+## Connect
 
-I'm always open to collaborating on interesting projects and discussing programming topics. Feel free to reach out to me if you'd like to pair program, exchange ideas, or just have a chat about coding and food!
+- LinkedIn: [linkedin.com/in/ashishxcode](https://linkedin.com/in/ashishxcode)  
+- X: [@ashishxcode](https://x.com/ashishxcode)  
+- Email: ashishxcode@email.com  
 
-## Get in Touch
-
-- 📧 Email: ashishxcode@email.com
-- 📱 Twitter: [@ashishxcode](https://twitter.com/ashishxcode)
-- 💼 LinkedIn: [Ashish Patel](https://www.linkedin.com/in/ashishxcode)
-
-Thanks for stopping by! Let's connect and code together. 🚀
+Open to interesting full-stack opportunities and collaborations.  
+Let's build something solid.
